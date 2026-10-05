@@ -4,4 +4,4 @@ Oosholding is a utility token deployed on the Base network designed to support e
 
 ### Project Verification Details
 * **Official Website:** This GitHub Repository
-* **Official Contact Email:** oosholdinglllc@yahoo.com
+* **Official Contact Email:** info@oosholdingwho.com
