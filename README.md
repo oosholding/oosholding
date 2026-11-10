@@ -1,4 +1,5 @@
-# Oosholding ($WHO)
+# Oosholding ($WHO) !!!! ORIGINAL CONCEPT - visit website for updated Architecture !!!!
+website: https://www.oosholdingwho.com
 
 Decentralized utility & governance infrastructure deployed on the Base network. Precision architecture built for long-term ecosystem health.
 
